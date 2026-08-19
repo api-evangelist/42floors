@@ -36,7 +36,7 @@ x-status-detail: >-
   Acquired by Knotel (2018), then Yardi (2021); folded into CommercialEdge /
   CommercialCafe. 42floors.com 301-redirects to commercialcafe.com. No public API
   or developer surface.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
